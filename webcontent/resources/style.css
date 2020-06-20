@@ -1,0 +1,26 @@
+
+div {
+font-weight:bold;
+font-style:italic
+}
+.fo {
+font-weight:bold;
+font-style:normal
+
+
+}
+#l {
+font-weight:bold;
+font-color:green;
+}
+.mainbody {
+	margin :100px 0px 0px 300px;
+	background-color:gray;
+	width :500px;
+	height :400px;
+	border:1px solid black
+}
+input{
+	padding-left: 30px;
+	border:1px solid red
+}
